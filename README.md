@@ -16,23 +16,38 @@ I am a Computer Science undergraduate at the University of Engineering & Managem
 🛠️ Tech Stack
 
 **Frontend Framework:**
+
 React 18 - Modern JavaScript library for building user interfaces
+
 TypeScript - Type-safe JavaScript for better development experience
+
 Vite - Fast build tool and development server
 
+
 **Styling & UI:**
+
 Tailwind CSS - Utility-first CSS framework for rapid styling
+
 Lucide React - Beautiful icon library
+
 Custom CSS animations - Smooth transitions and micro-interactions
 
+
 **Build & Deployment:**
+
 Vite build system - Optimized production builds
+
 Netlify - Static site hosting and deployment
+
 ES Modules - Modern JavaScript module system
 
+
 **Development Tools:**
+
 ESLint - Code linting and quality checks
+
 PostCSS & Autoprefixer - CSS processing
+
 TypeScript compiler - Type checking
 
 ---
